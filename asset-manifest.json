@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-catalogo-filmes/static/css/main.d1d5379a.css",
+    "main.js": "/get-catalogo-filmes/static/js/main.1fc4125c.js",
+    "index.html": "/get-catalogo-filmes/index.html",
+    "main.d1d5379a.css.map": "/get-catalogo-filmes/static/css/main.d1d5379a.css.map",
+    "main.1fc4125c.js.map": "/get-catalogo-filmes/static/js/main.1fc4125c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d5379a.css",
+    "static/js/main.1fc4125c.js"
+  ]
+}
